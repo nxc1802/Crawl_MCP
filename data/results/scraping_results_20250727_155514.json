@@ -1,0 +1,1929 @@
+{
+  "success": true,
+  "url": "https://apec2025.kr/?menuno=1",
+  "website_type": "social",
+  "language": "en",
+  "encoding": "UTF-8",
+  "page_complexity": {
+    "total_elements": 400,
+    "text_elements": 132,
+    "image_elements": 26,
+    "link_elements": 84,
+    "form_elements": 0,
+    "table_elements": 0,
+    "script_elements": 10,
+    "style_elements": 1,
+    "iframe_elements": 0,
+    "complexity_score": {
+      "text_ratio": 0.33,
+      "image_ratio": 0.065,
+      "link_ratio": 0.21,
+      "interactive_ratio": 0.025
+    }
+  },
+  "extraction_types": [
+    "text",
+    "images",
+    "links",
+    "metadata"
+  ],
+  "data": {
+    "text_content": [
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Digital Ministerial MeetingAPEC Women and Economy Forum (WEF)Food Security Ministerial Meeting (FSMM)Financial Ministers’ Meeting, Structural Reform Ministerial Meeting (SRMM)Third Senior Officials’ Meeting (SOM 3)",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Informal Senior Officials’ Meeting (ISOM)",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Deputy Finance Ministers’ MeetingFirst Senior Officials’ Meeting (SOM 1)",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Meeting of APEC Ministers Responsible for Trade (MRT)Education Ministerial Meeting (AEMM)Human Resources Development Ministerial Meeting (HRDMM)Small and Medium Enterprises Ministerial Meeting (SMEMM)Second Senior Officials’ Meeting (SOM 2)",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "APEC Ocean-Related Ministerial Meeting (OMM)Energy Ministers’ Meeting (EMM)",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "APEC 2025 KOREA",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Gyeongju, Jeju, Incheon, Busan",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Building a Sustainable Tomorrow : Connect, Innovate, Prosper",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.   * Overview of the First Advance Visit for 2025 APEC Economic Leaders’ Meeting - (July 9, Seoul) Briefing session on the Leaders’ Meeting and Q&A session - (July 10, Busan / Gyeongju) On-site Tour (Gimhae International Airport → Main Venue of the Leaders’ Meeting → Main Venue of Gala Dinner)   ※ Overview of 2025 APEC Economic Leaders’ Meeting - Korea will host the 2025 APEC Economic Leaders’ Meeting in Gyeongju in the second half of 2025, marking 20 years since its last hosting of the event in Busan in 2005.   2. On the first day, the Preparatory Office hosted a briefing session to present the schedule of Leaders’ Meeting and major protocol arrangements, followed by a Q&A session. Participants appreciated the Korean government’s thorough and well-organized preparations for the Leaders’ Meeting. In particular, H.E. Paul Fernando Duclos Parodi, the Peruvian Ambassador to Korea, commended Korea’s efforts and expressed hope for a successful Leaders’ Meeting in Gyeongju, following Peru’s hosting of the APEC Economic Leaders’ Meeting.   3. On the second day, the Preparatory Office conducted an on-site tour of Gimhae International Airport, the main venue of the Leaders’ Meeting (Gyeongju Hwabaek International Convention Center) and the venue of the gala dinner (Gyeongju National Museum). The participants received detailed briefings from the Preparatory Office and had the opportunity to tour the event hall and construction site firsthand.   4. The Preparatory Office plans to hold the Second Advance Visit for APEC member economies prior to the Leaders’ Meeting to conduct a final check of preparations.   ※ It is customary for the APEC Host Economy to hold two advance visits prior to the Leaders’ Meeting.   related link First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting - https://www.mofa.go.kr/eng/brd/m_5676/view.do?seq=322900",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "1. The seventh meeting of the Korea APEC 2025 Organizing Committee, chaired by Acting President and Deputy Prime Minister Lee Ju-ho, who also serves as Minister of Education, was held at the Government Complex Seoul on Thursday, May 22, 2025.   * Key outcomes of the first to sixth meetings of the Korea APEC 2025 Organizing Committee are as follows:   - First Meeting (March 18, 2024): Approved the establishment of the Host City Selection Committee   - Second Meeting (June 27, 2024): Confirmed Gyeongju as the host city of the 2025 APEC Economic Leaders’ Meeting (AELM) - Third Meeting (October 2, 2024): Approved the basic plan for the 2025 APEC Economic Leaders’ Meeting (AELM) - Fourth Meeting (November 13, 2024): Approved the official emblem for APEC 2025 KOREA - Fifth Meeting (January 22, 2025): Reviewed and discussed plans for cultural events, aviation and transportation, as well as the construction and operation of the media center - Sixth Meeting (April 17, 2025): Reviewed and discussed plans for promotional activities, sponsorships, and the appointment of the artistic director   2. The meeting addressed the following: 1) the outcomes of the Second Senior Officials’ Meeting (SOM2) and related ministerial meetings*; 2) the appointment of the artistic director for cultural events; 3) measures for aviation, transportation, and medical support; and 4) the status of preparations for the business-related events**.   * ▲ APEC Ocean-Related Ministerial Meeting (OMM), ▲ Human Resources Development Ministerial Meeting (HRDMM), ▲ APEC Education Ministerial Meeting (AEMM), and ▲ Meeting of APEC Ministers Responsible for Trade (MRT) ** ▲ CEO Summit and ▲ APEC Business Advisory Council (ABAC) Dialogue with Leaders   3. In addition, the committee members agreed to continue encouraging active participation from APEC leaders and business representatives, and to further enhance cooperation among ministries and related agencies to ensure the timely implementation of the matters discussed and reviewed during the meeting.   4. Acting President Lee stated, “As the APEC Economic Leaders’ Meeting (AELM) is set to take place in Korea for the first time in 20 years, we must seize this opportunity to demonstrate Korea’s leadership and strengthen its credibility on the global stage by ensuring the success of the meeting,” while emphasizing the importance of thorough preparation for the successful hosting of the AELM.     5. Building on the outcome of the meeting, the government will continue its preparations to ensure that the 2025 APEC Economic Leaders’ Meeting (AELM) not only takes the lead in shaping the regional economic cooperation agenda but also serves as a comprehensive economic and cultural platform that showcases Korea’s cultural excellence to the world.",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Korea’s Minister for Trade Inkyo Cheong of the Ministry of Trade, Industry and Energy (MOTIE) held high-level bilateral talks with trade representatives of 14 APEC member economies and the World Trade Organization (WTO) through May 14-16 on Jeju Island, as part of a series of bilateral meetings convened on the sidelines of the 2025 APEC Ministers Responsible for Trade (MRT) Meeting. During the talks, he took stock of the recent developments in U.S. tariff consultations with major economies and discussed measures to enhance trade and economic cooperation in addressing global trade uncertainties. First, Trade Minister Cheong met with U.S. Trade Representative Jamieson Greer on May 15 to discuss the status of U.S. tariff consultations with major economies and to exchange views on the Korea-U.S. technical discussions launched on May 1. Representative Greer noted Korea’s efforts to deliver meaningful outcomes through this year’s APEC MRT Meeting as chair of APEC 2025. On May 16, Trade Minister Cheong held a meeting with Masaki Okushi, Vice Minister of Japan’s Ministry of Economy, Trade and Industry (METI), and Miyaji Takuma, Vice Minister of Japan’s Ministry of Foreign Affairs (MOFA). Commemorating the 60th anniversary of the normalization of diplomatic relations, the two sides agreed to deepen collaboration in key areas like advanced industries, hydrogen and other emerging energy sectors, and supply chain resilience. They also pledged to work together toward the success of APEC 2025 and the Osaka-Kansai Expo and to actively leverage both Korea-Japan and Korea-U.S.-Japan cooperation platforms. In the meeting with Budi Santoso, Indonesia’s Minister of Trade, Trade Minister Cheong emphasized that more than 2,000 Korean companies are currently operating in Indonesia, requesting the Indonesian government’s support in resolving challenges faced by Korean firms including local certification and import restriction issues so as to ensure stable business operations. Meanwhile, Korea’s Deputy Minister for Trade Park Jong-won met with Ian McKay, Canada’s Special Envoy for the Indo-Pacific and Ambassador to Japan, to discuss ways to expand Korea-Canada cooperation in celebration of the 10th anniversary of the two countries’ bilateral FTA and to address support for Korean companies operating in Canada. He also met with Claudia Sanhueza Riveros, Chile’s Undersecretary for International Economic Relations, to review progress on the Korea-Chile FTA upgrade negotiations and to request the Chilean government’s support for Korean companies seeking to participate in Chile’s lithium development projects. Trade Minister Cheong stated that the bilateral talks with 14 Asia-Pacific economies’ trade leaders and the WTO Director-General have helped to promote the sharing of insights on global developments and trade response measures, while also advancing close cooperation on key issues such as building resilient critical minerals supply chains, expanding trade networks, and addressing challenges faced by Korean companies operating overseas. He added that the ministry will strive to mitigate trade uncertainties and external risks based on the newly gained insights and strengthened intraregional cooperation.",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "2025 APEC Ministers Responsible for Trade Joint Statement Jeju, Republic of Korea | 15-16 May 2025   1. We, the Asia-Pacific Economic Cooperation (APEC) Ministers Responsible for Trade (MRT), met in Jeju, Republic of Korea, from 15-16 May 2025, under the chairmanship of H.E. Inkyo Cheong, Minister of Trade of the Republic of Korea. We welcome the participation of the Director-General of the World Trade Organization (WTO), the Deputy Secretary-General of the Organisation for Economic Co-operation and Development (OECD), the APEC Business Advisory Council (ABAC), the Association of Southeast Asian Nations (ASEAN), and the Pacific Economic Cooperation Council (PECC).   2. Taking inspiration from Korea's APEC 2025 theme \"Building a Sustainable Tomorrow\", we have advanced APEC’s agenda through three thematic priorities: Connectivity through Multilateral Trading System, Artificial Intelligence (AI) Innovation for Trade Facilitation, and Prosperity through Sustainable Trade.   3. We remain committed to the Putrajaya Vision 2040, including through the implementation of the Aotearoa Plan of Action to build an open, dynamic, resilient, and peaceful Asia-Pacific community for the prosperity of all our people and future generations. We are concerned with the fundamental challenges faced by the global trading system. We remain committed to APEC as the premier forum for regional economic cooperation and emphasize the importance of its role in bringing us together to address the economic challenges facing our region and create a more resilient and prosperous Asia-Pacific region.   4. We recognize the importance of the WTO to advance trade issues, and acknowledge the agreed upon rules in the WTO as an integral part of the global trading system. We recognize the WTO has challenges and needs meaningful, necessary, and comprehensive reform to improve all its functions, through innovative approaches, to be more relevant and responsive in light of today’s realities. We commend the efforts to deepen discussions in the WTO on contemporary trade issues. We intend to work collaboratively through APEC's role as an incubator of ideas and support Members working together to deliver a successful Fourteenth WTO Ministerial Conference (MC14) in March 2026 in Cameroon.   5. We welcome the acceptance by 16 APEC economies of the WTO Agreement on Fisheries Subsidies, and call on remaining economies to complete their domestic procedures, and encourage all WTO Members to conclude negotiations on additional disciplines as soon as possible. We recognize the need for a constructive engagement on agriculture at the WTO. We also note the extension of the moratorium on customs duties on electronic transmissions as decided at MC13. We note the importance of enhancing predictability for the development of the digital economy. We welcome efforts to continue to reinvigorate work under the Work Program on Electronic Commerce.   6. We recognize the positive role of plurilateral negotiations at the WTO, including the Joint Statement Initiatives (JSIs), for advancing issues of interest to Members and to make the WTO more relevant. We welcome the progress made and emphasize their roles to address contemporary trade issues, foster new ideas, facilitate economic growth, and build momentum toward multilateral outcomes. We note the efforts of participating Members of the WTO JSIs to incorporate the Investment Facilitation for Development Agreement and the Agreement on Electronic Commerce into the WTO legal framework. We note the Statement of the APEC Committee on Trade and Investment together with the APEC Investment Experts’ Group Supporting the Investment Facilitation for Development Agreement, which reaffirms APEC’s strong commitment to a more transparent, predictable and business-friendly investment environment.   7. Recognizing its importance to APEC, we reaffirm our shared commitment to advancing economic integration in the Asia-Pacific region in a manner that is market-driven, including through the work on Free Trade Area of the Asia-Pacific (FTAAP) agenda. We welcome the study conducted by the APEC Policy Support Unit (PSU) on areas of convergence and divergence in trade agreements in the region and are committed to begin work this year in the areas of work on convergence and divergence identified in the Ichma Statement on A New Look at the FTAAP. We encourage further efforts and concrete work programs to enhance experience sharing, capacity building, and technical cooperation efforts. We welcome continued efforts in implementing the Capacity Building Needs Initiative (CBNI), aimed at strengthening member economies' readiness to participate in high standard and comprehensive undertakings.   8. We commit to ensuring that the benefits of digital transformation are accessible to all including by bridging digital divides and creating a safer digital ecosystem. We recognize the important role of the digitalization of the economy as a driver for innovation, productivity and economic growth across the region. As we approach the completion of the Work Program for the Implementation of the APEC Internet and Digital Economy Roadmap (AIDER) in 2025, we recognize the need to systematically develop an approach for the continued advancement of AIDER’s objective beyond 2025, in a way that addresses emerging challenges and opportunities in the rapidly evolving digital landscape and its impact on trade and investment. We encourage economies to strengthen digital infrastructure and accelerate interoperability to facilitate digital transformation. We will continue our cooperation on facilitating the flow of data and strengthening business and consumer trust in digital transactions.   9. We are committed to promoting intellectual property rights in advancing innovation and creativity through relevant policies and programs. We recognize the importance of engagement with traditional knowledge holders, such as Indigenous Peoples as appropriate.   10. We are committed to promoting the cross-border recognition of electronic trade-related documents, such as the electronic bills of lading and electronic invoices, through measures to facilitate paperless trade while enhancing capacity building initiatives and dialogues to support these efforts. In this regard, we acknowledge benefits of public-private collaboration and look forward to further exploratory discussions on such collaboration for paperless trade. We encourage working towards aligning our legal frameworks with the UNCITRAL Model Law on Electronic Transferable Records (MLETR) noting the different levels of readiness and capacity.    11. We recognize AI’s potential to fundamentally reshape the landscape of international trade. We acknowledge the importance of adopting AI-enabled procedures that contribute to trade facilitation, particularly with enhancing customs procedures. We encourage economies to share information on domestic approaches to relevant AI-related policy with the private sector, including micro, small and medium-sized enterprises (MSMEs), to help businesses identify opportunities and risks as well as improve competitiveness. To support ongoing efforts in AI-driven transformation and capacity building across the APEC region, we intend to discuss opportunities for voluntary information exchange on trade-related AI standards and technologies that takes into account and complements the work of appropriate specialized international organizations, processes, and other efforts.   12. We remain committed to the implementation of the APEC Connectivity Blueprint (2015-2025) by strengthening physical, institutional and people-to-people connectivity as well as taking advantage of digital connectivity. We encourage members to evaluate the current progress of the APEC Connectivity Blueprint and complete its final review in a timely manner. We reaffirm the value of APEC Business Travel Card (ABTC) in facilitating business mobility and enhancing connectivity. We encourage economies’ uptake and acceptance of the virtual ABTC. We underscore the importance of implementing the Supply Chain Connectivity Framework Action Plan, now in its third phase (SCFAP III, 2022-2026), to address supply chain chokepoints in the region. We also reaffirm the importance of quality infrastructure development and investment. We remain committed to the full and effective implementation of the WTO Trade Facilitation Agreement, recognizing its relevance in an evolving trade environment.   13. We acknowledge that global supply chains are facing cross-sectoral challenges. We support efforts to ensure that supply chains issues continue to be discussed within APEC to enhance the resilience of supply chains for sustainable economic growth across the APEC region. We welcome the discussions of the Forum on Sustainable Supply Chains, and we encourage greater engagement of the private sector in APEC’s supply chain discussions, including through public-private dialogues.   14. We recognize the critical role that trade can play in achieving food security, minimizing food supply chain disruptions, and promoting open, fair, transparent, productive, sustainable, resilient, and innovative agri-food systems that benefit all. In this regard, we recall our commitment to the goals of the APEC Food Security Roadmap Towards 2030.   15. We encourage economies to implement effective reforms in the services sector given its contribution to economic growth. We recognize the existing efforts to promote the APEC Services Competitiveness Roadmap (ASCR), which will reach its target date in 2025. We encourage officials to develop an ambitious framework for a post-2025 services roadmap. This framework may take into account the expanding role of digitally enabled services, as well as the impact of emerging technologies. In this regard, we further encourage cross-fora cooperation to discuss how to foster innovative services.   16. We welcome the updated Investment Facilitation Action Plan (IFAP) to support the implementation of the Aotearoa Plan of Action. We encourage officials to develop a work program to guide the implementation of the updated plan.   17. We emphasize APEC’s important role in promoting structural reforms to increase economic growth. We reaffirm the value of Good Regulatory Practices (GRP) in fostering transparency, predictability, and efficiency in the regulatory environment. We welcome ongoing efforts to strengthen cooperation on standards, and streamline conformity assessment procedures across APEC economies. In this regard, we encourage economies to implement GRP and look forward to sharing innovative approaches that remove unnecessary barriers to trade while maintaining appropriate regulatory objectives.    18. We recognize the importance of the Bangkok Goals in promoting cooperation to advance circular economy approaches. We welcome the process under way to review the Reference List of Environmental and Environmentally Related Services. We further encourage discussions on how to foster trade in Environmental and Environmentally Related services.   19. We commit to taking concerted efforts to empower all facing structural barriers to achieve their economic potential. Recognizing important contributions of MSMEs and all people to economic growth, we commit to strengthening all of our people’s participation in regional and global markets by providing information tools and enhancing access to skill development. We recognize the Lima Roadmap to Promote the Transition to the Formal and Global Economies (2025-2040) as an initiative to broaden global trade participation and facilitate MSMEs’ resilient and sustainable growth and integration into the global economy and global supply chains. We reaffirm our dedication to the La Serena Roadmap for Women and Inclusive Growth (2019-2030), emphasizing the value of women’s active engagement in trade and economic activities to build a more dynamic Asia-Pacific community. We recognize the importance of women’s economic empowerment, including through access to capital, assets, markets, and leadership positions, including in line with relevant APEC initiatives including APEC principles and recommendations. We acknowledge the valuable contributions of Indigenous Peoples as appropriate to economic growth and welcome further dialogues and collaborative efforts focused on capacity building to increase their participation in regional and global markets.   20. We express our appreciation to the Republic of Korea for hosting this meeting and look forward to our continued collaboration throughout 2025.",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Address14F, A-core, 70, Sogong-ro, Jung-gu, Seoul",
+        "tag": "p",
+        "classes": [],
+        "id": "",
+        "attributes": {}
+      },
+      {
+        "type": "text",
+        "selector": "p",
+        "content": "Copyright ⓒ APEC 2025 KOREA All right reserved",
+        "tag": "p",
+        "classes": [
+          "copyright"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "copyright"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "selector": "[class*=\"content\"]",
+        "content": "Overviewview moreTitleAPEC 2025 KOREALocationGyeongju, Jeju, Incheon, BusanTheme and PrioritiesBuilding a Sustainable Tomorrow : Connect, Innovate, Prosper",
+        "tag": "div",
+        "classes": [
+          "about_asean_content"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "about_asean_content"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "selector": "[class*=\"content\"]",
+        "content": "Overviewview moreTitleAPEC 2025 KOREALocationGyeongju, Jeju, Incheon, BusanTheme and PrioritiesBuilding a Sustainable Tomorrow : Connect, Innovate, Prosper",
+        "tag": "div",
+        "classes": [
+          "tab_content_flex"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "tab_content_flex"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "selector": "[class*=\"content\"]",
+        "content": "Overviewview moreTitleAPEC 2025 KOREALocationGyeongju, Jeju, Incheon, BusanTheme and PrioritiesBuilding a Sustainable Tomorrow : Connect, Innovate, Prosper",
+        "tag": "div",
+        "classes": [
+          "tab_content_inner",
+          "pd_layer"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "tab_content_inner",
+            "pd_layer"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "selector": "[class*=\"content\"]",
+        "content": "재생버튼NewFirst Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.   * Overview of the First Advance Visit for 2025 APEC Economic Leaders’ Meeting - (July 9, Seoul) Briefing session on the Leaders’ Meeting and Q&A session - (July 10, Busan / Gyeongju) On-site Tour (Gimhae International Airport → Main Venue of the Leaders’ Meeting → Main Venue of Gala Dinner)   ※ Overview of 2025 APEC Economic Leaders’ Meeting - Korea will host the 2025 APEC Economic Leaders’ Meeting in Gyeongju in the second half of 2025, marking 20 years since its last hosting of the event in Busan in 2005.   2. On the first day, the Preparatory Office hosted a briefing session to present the schedule of Leaders’ Meeting and major protocol arrangements, followed by a Q&A session. Participants appreciated the Korean government’s thorough and well-organized preparations for the Leaders’ Meeting. In particular, H.E. Paul Fernando Duclos Parodi, the Peruvian Ambassador to Korea, commended Korea’s efforts and expressed hope for a successful Leaders’ Meeting in Gyeongju, following Peru’s hosting of the APEC Economic Leaders’ Meeting.   3. On the second day, the Preparatory Office conducted an on-site tour of Gimhae International Airport, the main venue of the Leaders’ Meeting (Gyeongju Hwabaek International Convention Center) and the venue of the gala dinner (Gyeongju National Museum). The participants received detailed briefings from the Preparatory Office and had the opportunity to tour the event hall and construction site firsthand.   4. The Preparatory Office plans to hold the Second Advance Visit for APEC member economies prior to the Leaders’ Meeting to conduct a final check of preparations.   ※ It is customary for the APEC Host Economy to hold two advance visits prior to the Leaders’ Meeting.   related link First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting - https://www.mofa.go.kr/eng/brd/m_5676/view.do?seq=3229002025.07.107th Meeting of Korea APEC 2025 Organizing Committee - A comprehensive review of the current preparation status and a reaffirmed commitment to cooperation among ministries and related agencies -1. The seventh meeting of the Korea APEC 2025 Organizing Committee, chaired by Acting President and Deputy Prime Minister Lee Ju-ho, who also serves as Minister of Education, was held at the Government Complex Seoul on Thursday, May 22, 2025.   * Key outcomes of the first to sixth meetings of the Korea APEC 2025 Organizing Committee are as follows:   - First Meeting (March 18, 2024): Approved the establishment of the Host City Selection Committee   - Second Meeting (June 27, 2024): Confirmed Gyeongju as the host city of the 2025 APEC Economic Leaders’ Meeting (AELM) - Third Meeting (October 2, 2024): Approved the basic plan for the 2025 APEC Economic Leaders’ Meeting (AELM) - Fourth Meeting (November 13, 2024): Approved the official emblem for APEC 2025 KOREA - Fifth Meeting (January 22, 2025): Reviewed and discussed plans for cultural events, aviation and transportation, as well as the construction and operation of the media center - Sixth Meeting (April 17, 2025): Reviewed and discussed plans for promotional activities, sponsorships, and the appointment of the artistic director   2. The meeting addressed the following: 1) the outcomes of the Second Senior Officials’ Meeting (SOM2) and related ministerial meetings*; 2) the appointment of the artistic director for cultural events; 3) measures for aviation, transportation, and medical support; and 4) the status of preparations for the business-related events**.   * ▲ APEC Ocean-Related Ministerial Meeting (OMM), ▲ Human Resources Development Ministerial Meeting (HRDMM), ▲ APEC Education Ministerial Meeting (AEMM), and ▲ Meeting of APEC Ministers Responsible for Trade (MRT) ** ▲ CEO Summit and ▲ APEC Business Advisory Council (ABAC) Dialogue with Leaders   3. In addition, the committee members agreed to continue encouraging active participation from APEC leaders and business representatives, and to further enhance cooperation among ministries and related agencies to ensure the timely implementation of the matters discussed and reviewed during the meeting.   4. Acting President Lee stated, “As the APEC Economic Leaders’ Meeting (AELM) is set to take place in Korea for the first time in 20 years, we must seize this opportunity to demonstrate Korea’s leadership and strengthen its credibility on the global stage by ensuring the success of the meeting,” while emphasizing the importance of thorough preparation for the successful hosting of the AELM.     5. Building on the outcome of the meeting, the government will continue its preparations to ensure that the 2025 APEC Economic Leaders’ Meeting (AELM) not only takes the lead in shaping the regional economic cooperation agenda but also serves as a comprehensive economic and cultural platform that showcases Korea’s cultural excellence to the world.2025.05.22Korea strengthens cooperation with Asia-Pacific economies to address global trade uncertaintiesKorea’s Minister for Trade Inkyo Cheong of the Ministry of Trade, Industry and Energy (MOTIE) held high-level bilateral talks with trade representatives of 14 APEC member economies and the World Trade Organization (WTO) through May 14-16 on Jeju Island, as part of a series of bilateral meetings convened on the sidelines of the 2025 APEC Ministers Responsible for Trade (MRT) Meeting. During the talks, he took stock of the recent developments in U.S. tariff consultations with major economies and discussed measures to enhance trade and economic cooperation in addressing global trade uncertainties. First, Trade Minister Cheong met with U.S. Trade Representative Jamieson Greer on May 15 to discuss the status of U.S. tariff consultations with major economies and to exchange views on the Korea-U.S. technical discussions launched on May 1. Representative Greer noted Korea’s efforts to deliver meaningful outcomes through this year’s APEC MRT Meeting as chair of APEC 2025. On May 16, Trade Minister Cheong held a meeting with Masaki Okushi, Vice Minister of Japan’s Ministry of Economy, Trade and Industry (METI), and Miyaji Takuma, Vice Minister of Japan’s Ministry of Foreign Affairs (MOFA). Commemorating the 60th anniversary of the normalization of diplomatic relations, the two sides agreed to deepen collaboration in key areas like advanced industries, hydrogen and other emerging energy sectors, and supply chain resilience. They also pledged to work together toward the success of APEC 2025 and the Osaka-Kansai Expo and to actively leverage both Korea-Japan and Korea-U.S.-Japan cooperation platforms. In the meeting with Budi Santoso, Indonesia’s Minister of Trade, Trade Minister Cheong emphasized that more than 2,000 Korean companies are currently operating in Indonesia, requesting the Indonesian government’s support in resolving challenges faced by Korean firms including local certification and import restriction issues so as to ensure stable business operations. Meanwhile, Korea’s Deputy Minister for Trade Park Jong-won met with Ian McKay, Canada’s Special Envoy for the Indo-Pacific and Ambassador to Japan, to discuss ways to expand Korea-Canada cooperation in celebration of the 10th anniversary of the two countries’ bilateral FTA and to address support for Korean companies operating in Canada. He also met with Claudia Sanhueza Riveros, Chile’s Undersecretary for International Economic Relations, to review progress on the Korea-Chile FTA upgrade negotiations and to request the Chilean government’s support for Korean companies seeking to participate in Chile’s lithium development projects. Trade Minister Cheong stated that the bilateral talks with 14 Asia-Pacific economies’ trade leaders and the WTO Director-General have helped to promote the sharing of insights on global developments and trade response measures, while also advancing close cooperation on key issues such as building resilient critical minerals supply chains, expanding trade networks, and addressing challenges faced by Korean companies operating overseas. He added that the ministry will strive to mitigate trade uncertainties and external risks based on the newly gained insights and strengthened intraregional cooperation.2025.05.192025 APEC Ministers Responsible for Trade Joint Statement2025 APEC Ministers Responsible for Trade Joint Statement Jeju, Republic of Korea | 15-16 May 2025   1. We, the Asia-Pacific Economic Cooperation (APEC) Ministers Responsible for Trade (MRT), met in Jeju, Republic of Korea, from 15-16 May 2025, under the chairmanship of H.E. Inkyo Cheong, Minister of Trade of the Republic of Korea. We welcome the participation of the Director-General of the World Trade Organization (WTO), the Deputy Secretary-General of the Organisation for Economic Co-operation and Development (OECD), the APEC Business Advisory Council (ABAC), the Association of Southeast Asian Nations (ASEAN), and the Pacific Economic Cooperation Council (PECC).   2. Taking inspiration from Korea's APEC 2025 theme \"Building a Sustainable Tomorrow\", we have advanced APEC’s agenda through three thematic priorities: Connectivity through Multilateral Trading System, Artificial Intelligence (AI) Innovation for Trade Facilitation, and Prosperity through Sustainable Trade.   3. We remain committed to the Putrajaya Vision 2040, including through the implementation of the Aotearoa Plan of Action to build an open, dynamic, resilient, and peaceful Asia-Pacific community for the prosperity of all our people and future generations. We are concerned with the fundamental challenges faced by the global trading system. We remain committed to APEC as the premier forum for regional economic cooperation and emphasize the importance of its role in bringing us together to address the economic challenges facing our region and create a more resilient and prosperous Asia-Pacific region.   4. We recognize the importance of the WTO to advance trade issues, and acknowledge the agreed upon rules in the WTO as an integral part of the global trading system. We recognize the WTO has challenges and needs meaningful, necessary, and comprehensive reform to improve all its functions, through innovative approaches, to be more relevant and responsive in light of today’s realities. We commend the efforts to deepen discussions in the WTO on contemporary trade issues. We intend to work collaboratively through APEC's role as an incubator of ideas and support Members working together to deliver a successful Fourteenth WTO Ministerial Conference (MC14) in March 2026 in Cameroon.   5. We welcome the acceptance by 16 APEC economies of the WTO Agreement on Fisheries Subsidies, and call on remaining economies to complete their domestic procedures, and encourage all WTO Members to conclude negotiations on additional disciplines as soon as possible. We recognize the need for a constructive engagement on agriculture at the WTO. We also note the extension of the moratorium on customs duties on electronic transmissions as decided at MC13. We note the importance of enhancing predictability for the development of the digital economy. We welcome efforts to continue to reinvigorate work under the Work Program on Electronic Commerce.   6. We recognize the positive role of plurilateral negotiations at the WTO, including the Joint Statement Initiatives (JSIs), for advancing issues of interest to Members and to make the WTO more relevant. We welcome the progress made and emphasize their roles to address contemporary trade issues, foster new ideas, facilitate economic growth, and build momentum toward multilateral outcomes. We note the efforts of participating Members of the WTO JSIs to incorporate the Investment Facilitation for Development Agreement and the Agreement on Electronic Commerce into the WTO legal framework. We note the Statement of the APEC Committee on Trade and Investment together with the APEC Investment Experts’ Group Supporting the Investment Facilitation for Development Agreement, which reaffirms APEC’s strong commitment to a more transparent, predictable and business-friendly investment environment.   7. Recognizing its importance to APEC, we reaffirm our shared commitment to advancing economic integration in the Asia-Pacific region in a manner that is market-driven, including through the work on Free Trade Area of the Asia-Pacific (FTAAP) agenda. We welcome the study conducted by the APEC Policy Support Unit (PSU) on areas of convergence and divergence in trade agreements in the region and are committed to begin work this year in the areas of work on convergence and divergence identified in the Ichma Statement on A New Look at the FTAAP. We encourage further efforts and concrete work programs to enhance experience sharing, capacity building, and technical cooperation efforts. We welcome continued efforts in implementing the Capacity Building Needs Initiative (CBNI), aimed at strengthening member economies' readiness to participate in high standard and comprehensive undertakings.   8. We commit to ensuring that the benefits of digital transformation are accessible to all including by bridging digital divides and creating a safer digital ecosystem. We recognize the important role of the digitalization of the economy as a driver for innovation, productivity and economic growth across the region. As we approach the completion of the Work Program for the Implementation of the APEC Internet and Digital Economy Roadmap (AIDER) in 2025, we recognize the need to systematically develop an approach for the continued advancement of AIDER’s objective beyond 2025, in a way that addresses emerging challenges and opportunities in the rapidly evolving digital landscape and its impact on trade and investment. We encourage economies to strengthen digital infrastructure and accelerate interoperability to facilitate digital transformation. We will continue our cooperation on facilitating the flow of data and strengthening business and consumer trust in digital transactions.   9. We are committed to promoting intellectual property rights in advancing innovation and creativity through relevant policies and programs. We recognize the importance of engagement with traditional knowledge holders, such as Indigenous Peoples as appropriate.   10. We are committed to promoting the cross-border recognition of electronic trade-related documents, such as the electronic bills of lading and electronic invoices, through measures to facilitate paperless trade while enhancing capacity building initiatives and dialogues to support these efforts. In this regard, we acknowledge benefits of public-private collaboration and look forward to further exploratory discussions on such collaboration for paperless trade. We encourage working towards aligning our legal frameworks with the UNCITRAL Model Law on Electronic Transferable Records (MLETR) noting the different levels of readiness and capacity.    11. We recognize AI’s potential to fundamentally reshape the landscape of international trade. We acknowledge the importance of adopting AI-enabled procedures that contribute to trade facilitation, particularly with enhancing customs procedures. We encourage economies to share information on domestic approaches to relevant AI-related policy with the private sector, including micro, small and medium-sized enterprises (MSMEs), to help businesses identify opportunities and risks as well as improve competitiveness. To support ongoing efforts in AI-driven transformation and capacity building across the APEC region, we intend to discuss opportunities for voluntary information exchange on trade-related AI standards and technologies that takes into account and complements the work of appropriate specialized international organizations, processes, and other efforts.   12. We remain committed to the implementation of the APEC Connectivity Blueprint (2015-2025) by strengthening physical, institutional and people-to-people connectivity as well as taking advantage of digital connectivity. We encourage members to evaluate the current progress of the APEC Connectivity Blueprint and complete its final review in a timely manner. We reaffirm the value of APEC Business Travel Card (ABTC) in facilitating business mobility and enhancing connectivity. We encourage economies’ uptake and acceptance of the virtual ABTC. We underscore the importance of implementing the Supply Chain Connectivity Framework Action Plan, now in its third phase (SCFAP III, 2022-2026), to address supply chain chokepoints in the region. We also reaffirm the importance of quality infrastructure development and investment. We remain committed to the full and effective implementation of the WTO Trade Facilitation Agreement, recognizing its relevance in an evolving trade environment.   13. We acknowledge that global supply chains are facing cross-sectoral challenges. We support efforts to ensure that supply chains issues continue to be discussed within APEC to enhance the resilience of supply chains for sustainable economic growth across the APEC region. We welcome the discussions of the Forum on Sustainable Supply Chains, and we encourage greater engagement of the private sector in APEC’s supply chain discussions, including through public-private dialogues.   14. We recognize the critical role that trade can play in achieving food security, minimizing food supply chain disruptions, and promoting open, fair, transparent, productive, sustainable, resilient, and innovative agri-food systems that benefit all. In this regard, we recall our commitment to the goals of the APEC Food Security Roadmap Towards 2030.   15. We encourage economies to implement effective reforms in the services sector given its contribution to economic growth. We recognize the existing efforts to promote the APEC Services Competitiveness Roadmap (ASCR), which will reach its target date in 2025. We encourage officials to develop an ambitious framework for a post-2025 services roadmap. This framework may take into account the expanding role of digitally enabled services, as well as the impact of emerging technologies. In this regard, we further encourage cross-fora cooperation to discuss how to foster innovative services.   16. We welcome the updated Investment Facilitation Action Plan (IFAP) to support the implementation of the Aotearoa Plan of Action. We encourage officials to develop a work program to guide the implementation of the updated plan.   17. We emphasize APEC’s important role in promoting structural reforms to increase economic growth. We reaffirm the value of Good Regulatory Practices (GRP) in fostering transparency, predictability, and efficiency in the regulatory environment. We welcome ongoing efforts to strengthen cooperation on standards, and streamline conformity assessment procedures across APEC economies. In this regard, we encourage economies to implement GRP and look forward to sharing innovative approaches that remove unnecessary barriers to trade while maintaining appropriate regulatory objectives.    18. We recognize the importance of the Bangkok Goals in promoting cooperation to advance circular economy approaches. We welcome the process under way to review the Reference List of Environmental and Environmentally Related Services. We further encourage discussions on how to foster trade in Environmental and Environmentally Related services.   19. We commit to taking concerted efforts to empower all facing structural barriers to achieve their economic potential. Recognizing important contributions of MSMEs and all people to economic growth, we commit to strengthening all of our people’s participation in regional and global markets by providing information tools and enhancing access to skill development. We recognize the Lima Roadmap to Promote the Transition to the Formal and Global Economies (2025-2040) as an initiative to broaden global trade participation and facilitate MSMEs’ resilient and sustainable growth and integration into the global economy and global supply chains. We reaffirm our dedication to the La Serena Roadmap for Women and Inclusive Growth (2019-2030), emphasizing the value of women’s active engagement in trade and economic activities to build a more dynamic Asia-Pacific community. We recognize the importance of women’s economic empowerment, including through access to capital, assets, markets, and leadership positions, including in line with relevant APEC initiatives including APEC principles and recommendations. We acknowledge the valuable contributions of Indigenous Peoples as appropriate to economic growth and welcome further dialogues and collaborative efforts focused on capacity building to increase their participation in regional and global markets.   20. We express our appreciation to the Republic of Korea for hosting this meeting and look forward to our continued collaboration throughout 2025.2025.05.19",
+        "tag": "div",
+        "classes": [
+          "notice_apec_content"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "notice_apec_content"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "selector": "[class*=\"content\"]",
+        "content": "About APEC 2025 KOREAAPECAPEC 2025 KOREAMeetingsSide EventDocumentsMediaNoticesPress ReleasesResourcesSocial MediaPartnersSponsorshipVisit KoreaK-StoryGyeongjuJejuIncheonBusanSeoul",
+        "tag": "section",
+        "classes": [
+          "pop-contents"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "pop-contents"
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "selector": "[class*=\"text\"]",
+        "content": "NewFirst Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.",
+        "tag": "div",
+        "classes": [
+          "text_cont"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "text_cont"
+          ]
+        }
+      }
+    ],
+    "images": [
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_06.jpg",
+        "alt": "key visual",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "pc"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_06.jpg",
+          "class": [
+            "pc"
+          ],
+          "alt": "key visual"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/main/img_visual_m_06.jpg",
+        "alt": "key visual mobile",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "mobile"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/main/img_visual_m_06.jpg",
+          "class": [
+            "mobile"
+          ],
+          "alt": "key visual mobile"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_03.jpg",
+        "alt": "Gyeongju visual",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "pc"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_03.jpg",
+          "class": [
+            "pc"
+          ],
+          "alt": "Gyeongju visual"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_m_03.jpg",
+        "alt": "Gyeongju visual mobile",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "mobile"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_m_03.jpg",
+          "class": [
+            "mobile"
+          ],
+          "alt": "Gyeongju visual mobile"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_04.jpg",
+        "alt": "Jeju visual",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "pc"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_04.jpg",
+          "class": [
+            "pc"
+          ],
+          "alt": "Jeju visual"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_m_04.jpg",
+        "alt": "Jeju visual mobile",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "mobile"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_m_04.jpg",
+          "class": [
+            "mobile"
+          ],
+          "alt": "Jeju visual mobile"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_02.jpg",
+        "alt": "Incheon visual",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "pc"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_02.jpg",
+          "class": [
+            "pc"
+          ],
+          "alt": "Incheon visual"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_m_02.jpg",
+        "alt": "Incheon visual mobile",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "mobile"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_m_02.jpg",
+          "class": [
+            "mobile"
+          ],
+          "alt": "Incheon visual mobile"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_05.jpg",
+        "alt": "Busan visual",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "pc"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_05.jpg",
+          "class": [
+            "pc"
+          ],
+          "alt": "Busan visual"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_m_05.jpg",
+        "alt": "Busan visual mobile",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "mobile"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_m_05.jpg",
+          "class": [
+            "mobile"
+          ],
+          "alt": "Busan visual mobile"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_01.jpg",
+        "alt": "Seoul visual",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "pc"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_01.jpg",
+          "class": [
+            "pc"
+          ],
+          "alt": "Seoul visual"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_visual_m_01.jpg",
+        "alt": "Seoul visual mobile",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [
+          "mobile"
+        ],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_visual_m_01.jpg",
+          "class": [
+            "mobile"
+          ],
+          "alt": "Seoul visual mobile"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/banner/20250704095057618.png",
+        "alt": "[속보] 세종대왕, 돌하르방, 해치...지금 자리에서 일어나 경주 이동중...😮 이들이 경주로 향한 이유는? | APEC 2025 KOREA",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/banner/20250704095057618.png",
+          "alt": "[속보] 세종대왕, 돌하르방, 해치...지금 자리에서 일어나 경주 이동중...😮 이들이 경주로 향한 이유는? | APEC 2025 KOREA"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/file/ico_ytb.svg",
+        "alt": "youtube",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/file/ico_ytb.svg",
+          "alt": "youtube"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/banner/20250724113309771.png",
+        "alt": "2025년 APEC 정상회의의 홍보대사로 함께할 수 있게 되어 저 또한 영광입니다. 감사드립니다🙏",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/banner/20250724113309771.png",
+          "alt": "2025년 APEC 정상회의의 홍보대사로 함께할 수 있게 되어 저 또한 영광입니다. 감사드립니다🙏"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/file/ico_instar.svg",
+        "alt": "instagram",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/file/ico_instar.svg",
+          "alt": "instagram"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/banner/20250724113309777.png",
+        "alt": "APEC 정상회의 홍보대사를 소개합니다",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/banner/20250724113309777.png",
+          "alt": "APEC 정상회의 홍보대사를 소개합니다"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/file/ico_facebook.svg",
+        "alt": "facebook",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/file/ico_facebook.svg",
+          "alt": "facebook"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/banner/20250724113339906.png",
+        "alt": "[SOM2] DAY14 - Snapshots",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/banner/20250724113339906.png",
+          "alt": "[SOM2] DAY14 - Snapshots"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/file/ico_flickr.svg",
+        "alt": "flicker",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/file/ico_flickr.svg",
+          "alt": "flicker"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_event04.png",
+        "alt": "SOM 3: INCHEON",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_event04.png",
+          "alt": "SOM 3: INCHEON"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_event01.png",
+        "alt": "ISOM: SEOUL",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_event01.png",
+          "alt": "ISOM: SEOUL"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_event02.png",
+        "alt": "SOM 1: GYEONGJU",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_event02.png",
+          "alt": "SOM 1: GYEONGJU"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_event03.png",
+        "alt": "SOM 2: JEJU",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_event03.png",
+          "alt": "SOM 2: JEJU"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/images/eng/main/img_event05.png",
+        "alt": "BUSAN",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/images/eng/main/img_event05.png",
+          "alt": "BUSAN"
+        }
+      },
+      {
+        "type": "image",
+        "src": "https://apec2025.kr/usr/upload/banner/20250507022502158.png",
+        "alt": "First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -",
+        "title": "",
+        "width": "",
+        "height": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "src": "/usr/upload/banner/20250507022502158.png",
+          "alt": "First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -"
+        }
+      }
+    ],
+    "links": [
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=1#contents",
+        "text": "Go to main content",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "#contents"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.youtube.com/@APEC2025KOREA/videos",
+        "text": "youtube",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "youtube"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "youtube"
+          ],
+          "href": "https://www.youtube.com/@APEC2025KOREA/videos",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.instagram.com/apec2025korea/",
+        "text": "instagram",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "Instagram"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "Instagram"
+          ],
+          "href": "https://www.instagram.com/apec2025korea/",
+          "title": "새창열림",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.facebook.com/apec2025korea1",
+        "text": "facebook",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "facebook"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "facebook"
+          ],
+          "href": "https://www.facebook.com/apec2025korea1",
+          "title": "새창열림",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.flickr.com/photos/apec2025",
+        "text": "flickr",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "flickr"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "flickr"
+          ],
+          "href": "https://www.flickr.com/photos/apec2025",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/kor/",
+        "text": "KOR",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/kor/"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/",
+        "text": "About APEC 2025 KOREA",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=1#none",
+        "text": "Mobile menu",
+        "title": "",
+        "target": "",
+        "classes": [
+          "m_menu"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "m_menu"
+          ],
+          "href": "#none"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=2",
+        "text": "About APEC 2025 KOREA",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu01"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu01"
+          ],
+          "href": "?menuno=2"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=89",
+        "text": "APEC",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=89"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=90",
+        "text": "APEC 2025 KOREA",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=90"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "Meetings",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=94",
+        "text": "Side Event",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=94"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=147",
+        "text": "Documents",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=147"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=14",
+        "text": "Media",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu03"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu03"
+          ],
+          "href": "?menuno=14"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=15",
+        "text": "Notices",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=15"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16",
+        "text": "Press Releases",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=16"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=17",
+        "text": "Resources",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=17"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=98",
+        "text": "Social Media",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=98"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=100",
+        "text": "Partners",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu04",
+          "new"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu04",
+            "new"
+          ],
+          "href": "?menuno=100"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=100",
+        "text": "Sponsorship",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=100"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=18",
+        "text": "Visit Korea",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu05"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu05"
+          ],
+          "href": "?menuno=18"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=19",
+        "text": "K-story",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=19"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=102",
+        "text": "Gyeongju",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=102"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=103",
+        "text": "Jeju",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=103"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=104",
+        "text": "Incheon",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=104"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=106",
+        "text": "Busan",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=106"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=24",
+        "text": "Seoul",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=24"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.apec.org/",
+        "text": "Asia-Pacific Economic Cooperation",
+        "title": "new window open",
+        "target": "_blank",
+        "classes": [
+          "apec_logo"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "https://www.apec.org/",
+          "class": [
+            "apec_logo"
+          ],
+          "target": "_blank",
+          "title": "new window open"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=1#pop-up01",
+        "text": "SITE MAP",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "#pop-up01",
+          "data-rel": "pop"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.youtube.com/@APEC2025KOREA/videos",
+        "text": "유튜브",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "youtube"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "youtube"
+          ],
+          "href": "https://www.youtube.com/@APEC2025KOREA/videos",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.instagram.com/apec2025korea/",
+        "text": "인스타그램",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "Instagram"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "Instagram"
+          ],
+          "href": "https://www.instagram.com/apec2025korea/",
+          "title": "새창열림",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.facebook.com/apec2025korea1",
+        "text": "페이스북",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "facebook"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "facebook"
+          ],
+          "href": "https://www.facebook.com/apec2025korea1",
+          "title": "새창열림",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.flickr.com/photos/apec2025",
+        "text": "플리커",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "flickr"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "flickr"
+          ],
+          "href": "https://www.flickr.com/photos/apec2025",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.youtube.com/watch?v=NIjIqFhxZR4",
+        "text": "",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://www.youtube.com/watch?v=NIjIqFhxZR4",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.instagram.com/p/DMbpvvryEpd/",
+        "text": "",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://www.instagram.com/p/DMbpvvryEpd/",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.facebook.com/apec2025korea1/posts/pfbid0y5zFVaiUuLGipzGUvscZGVXRRFxGRYv5w41uGzMoR7VDT2B8YCNRtkup5SDAxrvEl?rdid=zW7qDGCEnNmPFges#",
+        "text": "",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://www.facebook.com/apec2025korea1/posts/pfbid0y5zFVaiUuLGipzGUvscZGVXRRFxGRYv5w41uGzMoR7VDT2B8YCNRtkup5SDAxrvEl?rdid=zW7qDGCEnNmPFges#",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.flickr.com/photos/apec2025/",
+        "text": "",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://www.flickr.com/photos/apec2025/",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "javascript:;",
+        "text": "View More",
+        "title": "",
+        "target": "",
+        "classes": [
+          "btn_view_more"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "javascript:;",
+          "class": [
+            "btn_view_more"
+          ]
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "javascript:;",
+        "text": "View More",
+        "title": "",
+        "target": "",
+        "classes": [
+          "btn_view_more"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "javascript:;",
+          "class": [
+            "btn_view_more"
+          ]
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "javascript:;",
+        "text": "View More",
+        "title": "",
+        "target": "",
+        "classes": [
+          "btn_view_more"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "javascript:;",
+          "class": [
+            "btn_view_more"
+          ]
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "javascript:;",
+        "text": "View More",
+        "title": "",
+        "target": "",
+        "classes": [
+          "btn_view_more"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "javascript:;",
+          "class": [
+            "btn_view_more"
+          ]
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "javascript:;",
+        "text": "View More",
+        "title": "",
+        "target": "",
+        "classes": [
+          "btn_view_more"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "javascript:;",
+          "class": [
+            "btn_view_more"
+          ]
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=90",
+        "text": "view more",
+        "title": "",
+        "target": "",
+        "classes": [
+          "Overview_add"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "Overview_add"
+          ],
+          "href": "?menuno=90"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+        "text": "재생버튼",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+        "text": "재생버튼",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "btn_play"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+          "target": "_blank",
+          "title": "새창열림",
+          "class": [
+            "btn_play"
+          ]
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+        "text": "First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+        "text": "1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "https://apec2025.kr/?menuno=16&act=view&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg==",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view",
+        "text": "First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting -1. The Preparatory Office for APEC 2025 (hereinafter “Preparatory Office”) held the First Advance Visit* for 2025 APEC Economic Leaders’ Meeting for delegates from 20 APEC member economies from July 9 (Wed) to July 10 (Thu), 2025. The First Advance Visit was chaired by Senior Managing Director Kim Ji-Joon and attended by over 120 participants, including delegations from APEC member economies and officials from relevant authorities.   * Overview of the First Advance Visit for 2025 APEC Economic Leaders’ Meeting - (July 9, Seoul) Briefing session on the Leaders’ Meeting and Q&A session - (July 10, Busan / Gyeongju) On-site Tour (Gimhae International Airport → Main Venue of the Leaders’ Meeting → Main Venue of Gala Dinner)   ※ Overview of 2025 APEC Economic Leaders’ Meeting - Korea will host the 2025 APEC Economic Leaders’ Meeting in Gyeongju in the second half of 2025, marking 20 years since its last hosting of the event in Busan in 2005.   2. On the first day, the Preparatory Office hosted a briefing session to present the schedule of Leaders’ Meeting and major protocol arrangements, followed by a Q&A session. Participants appreciated the Korean government’s thorough and well-organized preparations for the Leaders’ Meeting. In particular, H.E. Paul Fernando Duclos Parodi, the Peruvian Ambassador to Korea, commended Korea’s efforts and expressed hope for a successful Leaders’ Meeting in Gyeongju, following Peru’s hosting of the APEC Economic Leaders’ Meeting.   3. On the second day, the Preparatory Office conducted an on-site tour of Gimhae International Airport, the main venue of the Leaders’ Meeting (Gyeongju Hwabaek International Convention Center) and the venue of the gala dinner (Gyeongju National Museum). The participants received detailed briefings from the Preparatory Office and had the opportunity to tour the event hall and construction site firsthand.   4. The Preparatory Office plans to hold the Second Advance Visit for APEC member economies prior to the Leaders’ Meeting to conduct a final check of preparations.   ※ It is customary for the APEC Host Economy to hold two advance visits prior to the Leaders’ Meeting.   related link First Advance Visit for 2025 APEC Economic Leaders’ Meeting Held - APEC member economies expressed expectations after recognizing thorough preparations for 2025 APEC Economic Leaders’ Meeting - https://www.mofa.go.kr/eng/brd/m_5676/view.do?seq=3229002025.07.10",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDIiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDMiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view",
+        "text": "7th Meeting of Korea APEC 2025 Organizing Committee - A comprehensive review of the current preparation status and a reaffirmed commitment to cooperation among ministries and related agencies -1. The seventh meeting of the Korea APEC 2025 Organizing Committee, chaired by Acting President and Deputy Prime Minister Lee Ju-ho, who also serves as Minister of Education, was held at the Government Complex Seoul on Thursday, May 22, 2025.   * Key outcomes of the first to sixth meetings of the Korea APEC 2025 Organizing Committee are as follows:   - First Meeting (March 18, 2024): Approved the establishment of the Host City Selection Committee   - Second Meeting (June 27, 2024): Confirmed Gyeongju as the host city of the 2025 APEC Economic Leaders’ Meeting (AELM) - Third Meeting (October 2, 2024): Approved the basic plan for the 2025 APEC Economic Leaders’ Meeting (AELM) - Fourth Meeting (November 13, 2024): Approved the official emblem for APEC 2025 KOREA - Fifth Meeting (January 22, 2025): Reviewed and discussed plans for cultural events, aviation and transportation, as well as the construction and operation of the media center - Sixth Meeting (April 17, 2025): Reviewed and discussed plans for promotional activities, sponsorships, and the appointment of the artistic director   2. The meeting addressed the following: 1) the outcomes of the Second Senior Officials’ Meeting (SOM2) and related ministerial meetings*; 2) the appointment of the artistic director for cultural events; 3) measures for aviation, transportation, and medical support; and 4) the status of preparations for the business-related events**.   * ▲ APEC Ocean-Related Ministerial Meeting (OMM), ▲ Human Resources Development Ministerial Meeting (HRDMM), ▲ APEC Education Ministerial Meeting (AEMM), and ▲ Meeting of APEC Ministers Responsible for Trade (MRT) ** ▲ CEO Summit and ▲ APEC Business Advisory Council (ABAC) Dialogue with Leaders   3. In addition, the committee members agreed to continue encouraging active participation from APEC leaders and business representatives, and to further enhance cooperation among ministries and related agencies to ensure the timely implementation of the matters discussed and reviewed during the meeting.   4. Acting President Lee stated, “As the APEC Economic Leaders’ Meeting (AELM) is set to take place in Korea for the first time in 20 years, we must seize this opportunity to demonstrate Korea’s leadership and strengthen its credibility on the global stage by ensuring the success of the meeting,” while emphasizing the importance of thorough preparation for the successful hosting of the AELM.     5. Building on the outcome of the meeting, the government will continue its preparations to ensure that the 2025 APEC Economic Leaders’ Meeting (AELM) not only takes the lead in shaping the regional economic cooperation agenda but also serves as a comprehensive economic and cultural platform that showcases Korea’s cultural excellence to the world.2025.05.22",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDMiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDEiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view",
+        "text": "Korea strengthens cooperation with Asia-Pacific economies to address global trade uncertaintiesKorea’s Minister for Trade Inkyo Cheong of the Ministry of Trade, Industry and Energy (MOTIE) held high-level bilateral talks with trade representatives of 14 APEC member economies and the World Trade Organization (WTO) through May 14-16 on Jeju Island, as part of a series of bilateral meetings convened on the sidelines of the 2025 APEC Ministers Responsible for Trade (MRT) Meeting. During the talks, he took stock of the recent developments in U.S. tariff consultations with major economies and discussed measures to enhance trade and economic cooperation in addressing global trade uncertainties. First, Trade Minister Cheong met with U.S. Trade Representative Jamieson Greer on May 15 to discuss the status of U.S. tariff consultations with major economies and to exchange views on the Korea-U.S. technical discussions launched on May 1. Representative Greer noted Korea’s efforts to deliver meaningful outcomes through this year’s APEC MRT Meeting as chair of APEC 2025. On May 16, Trade Minister Cheong held a meeting with Masaki Okushi, Vice Minister of Japan’s Ministry of Economy, Trade and Industry (METI), and Miyaji Takuma, Vice Minister of Japan’s Ministry of Foreign Affairs (MOFA). Commemorating the 60th anniversary of the normalization of diplomatic relations, the two sides agreed to deepen collaboration in key areas like advanced industries, hydrogen and other emerging energy sectors, and supply chain resilience. They also pledged to work together toward the success of APEC 2025 and the Osaka-Kansai Expo and to actively leverage both Korea-Japan and Korea-U.S.-Japan cooperation platforms. In the meeting with Budi Santoso, Indonesia’s Minister of Trade, Trade Minister Cheong emphasized that more than 2,000 Korean companies are currently operating in Indonesia, requesting the Indonesian government’s support in resolving challenges faced by Korean firms including local certification and import restriction issues so as to ensure stable business operations. Meanwhile, Korea’s Deputy Minister for Trade Park Jong-won met with Ian McKay, Canada’s Special Envoy for the Indo-Pacific and Ambassador to Japan, to discuss ways to expand Korea-Canada cooperation in celebration of the 10th anniversary of the two countries’ bilateral FTA and to address support for Korean companies operating in Canada. He also met with Claudia Sanhueza Riveros, Chile’s Undersecretary for International Economic Relations, to review progress on the Korea-Chile FTA upgrade negotiations and to request the Chilean government’s support for Korean companies seeking to participate in Chile’s lithium development projects. Trade Minister Cheong stated that the bilateral talks with 14 Asia-Pacific economies’ trade leaders and the WTO Director-General have helped to promote the sharing of insights on global developments and trade response measures, while also advancing close cooperation on key issues such as building resilient critical minerals supply chains, expanding trade networks, and addressing challenges faced by Korean companies operating overseas. He added that the ministry will strive to mitigate trade uncertainties and external risks based on the newly gained insights and strengthened intraregional cooperation.2025.05.19",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDEiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDAiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view",
+        "text": "2025 APEC Ministers Responsible for Trade Joint Statement2025 APEC Ministers Responsible for Trade Joint Statement Jeju, Republic of Korea | 15-16 May 2025   1. We, the Asia-Pacific Economic Cooperation (APEC) Ministers Responsible for Trade (MRT), met in Jeju, Republic of Korea, from 15-16 May 2025, under the chairmanship of H.E. Inkyo Cheong, Minister of Trade of the Republic of Korea. We welcome the participation of the Director-General of the World Trade Organization (WTO), the Deputy Secretary-General of the Organisation for Economic Co-operation and Development (OECD), the APEC Business Advisory Council (ABAC), the Association of Southeast Asian Nations (ASEAN), and the Pacific Economic Cooperation Council (PECC).   2. Taking inspiration from Korea's APEC 2025 theme \"Building a Sustainable Tomorrow\", we have advanced APEC’s agenda through three thematic priorities: Connectivity through Multilateral Trading System, Artificial Intelligence (AI) Innovation for Trade Facilitation, and Prosperity through Sustainable Trade.   3. We remain committed to the Putrajaya Vision 2040, including through the implementation of the Aotearoa Plan of Action to build an open, dynamic, resilient, and peaceful Asia-Pacific community for the prosperity of all our people and future generations. We are concerned with the fundamental challenges faced by the global trading system. We remain committed to APEC as the premier forum for regional economic cooperation and emphasize the importance of its role in bringing us together to address the economic challenges facing our region and create a more resilient and prosperous Asia-Pacific region.   4. We recognize the importance of the WTO to advance trade issues, and acknowledge the agreed upon rules in the WTO as an integral part of the global trading system. We recognize the WTO has challenges and needs meaningful, necessary, and comprehensive reform to improve all its functions, through innovative approaches, to be more relevant and responsive in light of today’s realities. We commend the efforts to deepen discussions in the WTO on contemporary trade issues. We intend to work collaboratively through APEC's role as an incubator of ideas and support Members working together to deliver a successful Fourteenth WTO Ministerial Conference (MC14) in March 2026 in Cameroon.   5. We welcome the acceptance by 16 APEC economies of the WTO Agreement on Fisheries Subsidies, and call on remaining economies to complete their domestic procedures, and encourage all WTO Members to conclude negotiations on additional disciplines as soon as possible. We recognize the need for a constructive engagement on agriculture at the WTO. We also note the extension of the moratorium on customs duties on electronic transmissions as decided at MC13. We note the importance of enhancing predictability for the development of the digital economy. We welcome efforts to continue to reinvigorate work under the Work Program on Electronic Commerce.   6. We recognize the positive role of plurilateral negotiations at the WTO, including the Joint Statement Initiatives (JSIs), for advancing issues of interest to Members and to make the WTO more relevant. We welcome the progress made and emphasize their roles to address contemporary trade issues, foster new ideas, facilitate economic growth, and build momentum toward multilateral outcomes. We note the efforts of participating Members of the WTO JSIs to incorporate the Investment Facilitation for Development Agreement and the Agreement on Electronic Commerce into the WTO legal framework. We note the Statement of the APEC Committee on Trade and Investment together with the APEC Investment Experts’ Group Supporting the Investment Facilitation for Development Agreement, which reaffirms APEC’s strong commitment to a more transparent, predictable and business-friendly investment environment.   7. Recognizing its importance to APEC, we reaffirm our shared commitment to advancing economic integration in the Asia-Pacific region in a manner that is market-driven, including through the work on Free Trade Area of the Asia-Pacific (FTAAP) agenda. We welcome the study conducted by the APEC Policy Support Unit (PSU) on areas of convergence and divergence in trade agreements in the region and are committed to begin work this year in the areas of work on convergence and divergence identified in the Ichma Statement on A New Look at the FTAAP. We encourage further efforts and concrete work programs to enhance experience sharing, capacity building, and technical cooperation efforts. We welcome continued efforts in implementing the Capacity Building Needs Initiative (CBNI), aimed at strengthening member economies' readiness to participate in high standard and comprehensive undertakings.   8. We commit to ensuring that the benefits of digital transformation are accessible to all including by bridging digital divides and creating a safer digital ecosystem. We recognize the important role of the digitalization of the economy as a driver for innovation, productivity and economic growth across the region. As we approach the completion of the Work Program for the Implementation of the APEC Internet and Digital Economy Roadmap (AIDER) in 2025, we recognize the need to systematically develop an approach for the continued advancement of AIDER’s objective beyond 2025, in a way that addresses emerging challenges and opportunities in the rapidly evolving digital landscape and its impact on trade and investment. We encourage economies to strengthen digital infrastructure and accelerate interoperability to facilitate digital transformation. We will continue our cooperation on facilitating the flow of data and strengthening business and consumer trust in digital transactions.   9. We are committed to promoting intellectual property rights in advancing innovation and creativity through relevant policies and programs. We recognize the importance of engagement with traditional knowledge holders, such as Indigenous Peoples as appropriate.   10. We are committed to promoting the cross-border recognition of electronic trade-related documents, such as the electronic bills of lading and electronic invoices, through measures to facilitate paperless trade while enhancing capacity building initiatives and dialogues to support these efforts. In this regard, we acknowledge benefits of public-private collaboration and look forward to further exploratory discussions on such collaboration for paperless trade. We encourage working towards aligning our legal frameworks with the UNCITRAL Model Law on Electronic Transferable Records (MLETR) noting the different levels of readiness and capacity.    11. We recognize AI’s potential to fundamentally reshape the landscape of international trade. We acknowledge the importance of adopting AI-enabled procedures that contribute to trade facilitation, particularly with enhancing customs procedures. We encourage economies to share information on domestic approaches to relevant AI-related policy with the private sector, including micro, small and medium-sized enterprises (MSMEs), to help businesses identify opportunities and risks as well as improve competitiveness. To support ongoing efforts in AI-driven transformation and capacity building across the APEC region, we intend to discuss opportunities for voluntary information exchange on trade-related AI standards and technologies that takes into account and complements the work of appropriate specialized international organizations, processes, and other efforts.   12. We remain committed to the implementation of the APEC Connectivity Blueprint (2015-2025) by strengthening physical, institutional and people-to-people connectivity as well as taking advantage of digital connectivity. We encourage members to evaluate the current progress of the APEC Connectivity Blueprint and complete its final review in a timely manner. We reaffirm the value of APEC Business Travel Card (ABTC) in facilitating business mobility and enhancing connectivity. We encourage economies’ uptake and acceptance of the virtual ABTC. We underscore the importance of implementing the Supply Chain Connectivity Framework Action Plan, now in its third phase (SCFAP III, 2022-2026), to address supply chain chokepoints in the region. We also reaffirm the importance of quality infrastructure development and investment. We remain committed to the full and effective implementation of the WTO Trade Facilitation Agreement, recognizing its relevance in an evolving trade environment.   13. We acknowledge that global supply chains are facing cross-sectoral challenges. We support efforts to ensure that supply chains issues continue to be discussed within APEC to enhance the resilience of supply chains for sustainable economic growth across the APEC region. We welcome the discussions of the Forum on Sustainable Supply Chains, and we encourage greater engagement of the private sector in APEC’s supply chain discussions, including through public-private dialogues.   14. We recognize the critical role that trade can play in achieving food security, minimizing food supply chain disruptions, and promoting open, fair, transparent, productive, sustainable, resilient, and innovative agri-food systems that benefit all. In this regard, we recall our commitment to the goals of the APEC Food Security Roadmap Towards 2030.   15. We encourage economies to implement effective reforms in the services sector given its contribution to economic growth. We recognize the existing efforts to promote the APEC Services Competitiveness Roadmap (ASCR), which will reach its target date in 2025. We encourage officials to develop an ambitious framework for a post-2025 services roadmap. This framework may take into account the expanding role of digitally enabled services, as well as the impact of emerging technologies. In this regard, we further encourage cross-fora cooperation to discuss how to foster innovative services.   16. We welcome the updated Investment Facilitation Action Plan (IFAP) to support the implementation of the Aotearoa Plan of Action. We encourage officials to develop a work program to guide the implementation of the updated plan.   17. We emphasize APEC’s important role in promoting structural reforms to increase economic growth. We reaffirm the value of Good Regulatory Practices (GRP) in fostering transparency, predictability, and efficiency in the regulatory environment. We welcome ongoing efforts to strengthen cooperation on standards, and streamline conformity assessment procedures across APEC economies. In this regard, we encourage economies to implement GRP and look forward to sharing innovative approaches that remove unnecessary barriers to trade while maintaining appropriate regulatory objectives.    18. We recognize the importance of the Bangkok Goals in promoting cooperation to advance circular economy approaches. We welcome the process under way to review the Reference List of Environmental and Environmentally Related Services. We further encourage discussions on how to foster trade in Environmental and Environmentally Related services.   19. We commit to taking concerted efforts to empower all facing structural barriers to achieve their economic potential. Recognizing important contributions of MSMEs and all people to economic growth, we commit to strengthening all of our people’s participation in regional and global markets by providing information tools and enhancing access to skill development. We recognize the Lima Roadmap to Promote the Transition to the Formal and Global Economies (2025-2040) as an initiative to broaden global trade participation and facilitate MSMEs’ resilient and sustainable growth and integration into the global economy and global supply chains. We reaffirm our dedication to the La Serena Roadmap for Women and Inclusive Growth (2019-2030), emphasizing the value of women’s active engagement in trade and economic activities to build a more dynamic Asia-Pacific community. We recognize the importance of women’s economic empowerment, including through access to capital, assets, markets, and leadership positions, including in line with relevant APEC initiatives including APEC principles and recommendations. We acknowledge the valuable contributions of Indigenous Peoples as appropriate to economic growth and welcome further dialogues and collaborative efforts focused on capacity building to increase their participation in regional and global markets.   20. We express our appreciation to the Republic of Korea for hosting this meeting and look forward to our continued collaboration throughout 2025.2025.05.19",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "/?menuno=16&ztag=rO0ABXQAUTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNyIgc2tpbj0icGhvdG90aHVtYl9zdWJtaXQyIiBiYnNubz0iNDAiIHNpdGVubz0iMiI-PC9jYWxsPg%3D%3D&act=view"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16",
+        "text": "View more +",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=16"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/",
+        "text": "About  APEC 2025 Korea Logo",
+        "title": "",
+        "target": "",
+        "classes": [
+          "f_logo"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "f_logo"
+          ],
+          "href": "/"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.youtube.com/@APEC2025KOREA/videos",
+        "text": "youtube",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "f_youtube"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "f_youtube"
+          ],
+          "href": "https://www.youtube.com/@APEC2025KOREA/videos",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.instagram.com/apec2025korea/",
+        "text": "instargram",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "f_Instagram"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "f_Instagram"
+          ],
+          "href": "https://www.instagram.com/apec2025korea/",
+          "title": "새창열림",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.facebook.com/apec2025korea1",
+        "text": "facebook",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "f_facebook"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "f_facebook"
+          ],
+          "href": "https://www.facebook.com/apec2025korea1",
+          "title": "새창열림",
+          "target": "_blank"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://www.flickr.com/photos/apec2025",
+        "text": "flickr",
+        "title": "새창열림",
+        "target": "_blank",
+        "classes": [
+          "f_flickr"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "f_flickr"
+          ],
+          "href": "https://www.flickr.com/photos/apec2025",
+          "target": "_blank",
+          "title": "새창열림"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=2",
+        "text": "About APEC 2025 KOREA",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu01"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu01"
+          ],
+          "href": "?menuno=2"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=89",
+        "text": "APEC",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=89"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=90",
+        "text": "APEC 2025 KOREA",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=90"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=93",
+        "text": "Meetings",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=93"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=94",
+        "text": "Side Event",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=94"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=147",
+        "text": "Documents",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=147"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=14",
+        "text": "Media",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu03"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu03"
+          ],
+          "href": "?menuno=14"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=15",
+        "text": "Notices",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=15"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=16",
+        "text": "Press Releases",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=16"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=17",
+        "text": "Resources",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=17"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=98",
+        "text": "Social Media",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=98"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=100",
+        "text": "Partners",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu04",
+          "new"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu04",
+            "new"
+          ],
+          "href": "?menuno=100"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=100",
+        "text": "Sponsorship",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=100"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=18",
+        "text": "Visit Korea",
+        "title": "",
+        "target": "",
+        "classes": [
+          "menu05"
+        ],
+        "id": "",
+        "attributes": {
+          "class": [
+            "menu05"
+          ],
+          "href": "?menuno=18"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=19",
+        "text": "K-Story",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=19"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=102",
+        "text": "Gyeongju",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=102"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=103",
+        "text": "Jeju",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=103"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=104",
+        "text": "Incheon",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=104"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=106",
+        "text": "Busan",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=106"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=24",
+        "text": "Seoul",
+        "title": "",
+        "target": "",
+        "classes": [],
+        "id": "",
+        "attributes": {
+          "href": "?menuno=24"
+        }
+      },
+      {
+        "type": "link",
+        "href": "https://apec2025.kr/?menuno=1#none",
+        "text": "닫기",
+        "title": "팝업 닫기",
+        "target": "",
+        "classes": [
+          "pop-close"
+        ],
+        "id": "",
+        "attributes": {
+          "href": "#none",
+          "class": [
+            "pop-close"
+          ],
+          "title": "팝업 닫기"
+        }
+      }
+    ],
+    "metadata": {
+      "type": "metadata",
+      "title": "Main > APEC 2025 KOREA",
+      "description": "",
+      "keywords": "APEC 2025 KOREA",
+      "author": "",
+      "language": "",
+      "charset": "UTF-8",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+      "robots": "",
+      "canonical": "",
+      "og_tags": {},
+      "twitter_tags": {}
+    }
+  },
+  "summary": {
+    "text_items": 21,
+    "images": 26,
+    "links": 84,
+    "structured_data_items": 0,
+    "tables": 0,
+    "forms": 0,
+    "navigation_menus": 0
+  }
+}

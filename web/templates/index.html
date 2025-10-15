@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hekate - Universal Web Scraper</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .form-section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        input[type="url"], select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e1e5e9;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+
+        input[type="url"]:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .checkbox-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .checkbox-item input[type="checkbox"] {
+            width: auto;
+            margin: 0;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .status {
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            display: none;
+        }
+
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+
+        .results {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            display: none;
+        }
+
+        .results h3 {
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .results pre {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .stat-card h4 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .stat-card .value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .feature-card h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+
+        .feature-card p {
+            color: #666;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 Hekate</h1>
+            <p>Universal Web Scraper with Smart Detection</p>
+        </div>
+
+        <div class="content">
+            <div class="form-section">
+                <h2>Scraping Configuration</h2>
+                
+                <div class="form-group">
+                    <label for="url">Website URL:</label>
+                    <input type="url" id="url" placeholder="https://example.com" value="https://apec2025.kr/?menuno=1">
+                </div>
+
+                <div class="form-group">
+                    <label>Extraction Types:</label>
+                    <div class="checkbox-group">
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="text" checked>
+                            <label for="text">Text Content</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="images" checked>
+                            <label for="images">Images</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="links" checked>
+                            <label for="links">Links</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="metadata" checked>
+                            <label for="metadata">Metadata</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="structured_data">
+                            <label for="structured_data">Structured Data</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="tables">
+                            <label for="tables">Tables</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="forms">
+                            <label for="forms">Forms</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="navigation">
+                            <label for="navigation">Navigation</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="max_pages">Max Pages:</label>
+                    <input type="number" id="max_pages" value="1" min="1" max="50">
+                </div>
+
+                <div class="form-group">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="save_results">
+                        <label for="save_results">Save Results to File</label>
+                    </div>
+                </div>
+
+                <button class="btn" onclick="startScraping()">🚀 Start Scraping</button>
+            </div>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Scraping in progress...</p>
+            </div>
+
+            <div class="status" id="status"></div>
+
+            <div class="results" id="results">
+                <h3>Scraping Results</h3>
+                <pre id="resultsContent"></pre>
+            </div>
+
+            <div class="stats" id="stats" style="display: none;">
+                <div class="stat-card">
+                    <h4>Pages Scraped</h4>
+                    <div class="value" id="pagesScraped">0</div>
+                </div>
+                <div class="stat-card">
+                    <h4>Text Items</h4>
+                    <div class="value" id="textItems">0</div>
+                </div>
+                <div class="stat-card">
+                    <h4>Images</h4>
+                    <div class="value" id="images">0</div>
+                </div>
+                <div class="stat-card">
+                    <h4>Links</h4>
+                    <div class="value" id="links">0</div>
+                </div>
+            </div>
+
+            <div class="features">
+                <div class="feature-card">
+                    <h3>🌐 Universal Support</h3>
+                    <p>Scrape any website with smart detection and automatic structure analysis</p>
+                </div>
+                <div class="feature-card">
+                    <h3>🤖 Anti-Detection</h3>
+                    <p>Human behavior simulation and proxy rotation to avoid detection</p>
+                </div>
+                <div class="feature-card">
+                    <h3>📊 Smart Extraction</h3>
+                    <p>Intelligent data extraction with multiple fallback methods</p>
+                </div>
+                <div class="feature-card">
+                    <h3>⚡ High Performance</h3>
+                    <p>Optimized for speed and reliability with comprehensive error handling</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function startScraping() {
+            const url = document.getElementById('url').value;
+            const maxPages = parseInt(document.getElementById('max_pages').value);
+            const saveResults = document.getElementById('save_results').checked;
+
+            // Get selected extraction types
+            const extractionTypes = [];
+            const checkboxes = ['text', 'images', 'links', 'metadata', 'structured_data', 'tables', 'forms', 'navigation'];
+            checkboxes.forEach(type => {
+                if (document.getElementById(type).checked) {
+                    extractionTypes.push(type);
+                }
+            });
+
+            if (!url) {
+                showStatus('Please enter a valid URL', 'error');
+                return;
+            }
+
+            if (extractionTypes.length === 0) {
+                showStatus('Please select at least one extraction type', 'error');
+                return;
+            }
+
+            // Show loading
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('stats').style.display = 'none';
+            hideStatus();
+
+            const requestData = {
+                url: url,
+                extract_types: extractionTypes,
+                max_pages: maxPages,
+                save_results: saveResults
+            };
+
+            try {
+                const response = await fetch('/scrape', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(requestData)
+                });
+
+                const result = await response.json();
+
+                if (response.ok) {
+                    showResults(result);
+                    showStatus('Scraping completed successfully!', 'success');
+                } else {
+                    showStatus(`Error: ${result.error}`, 'error');
+                }
+            } catch (error) {
+                showStatus(`Network error: ${error.message}`, 'error');
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function showResults(result) {
+            const resultsDiv = document.getElementById('results');
+            const resultsContent = document.getElementById('resultsContent');
+            
+            resultsContent.textContent = JSON.stringify(result, null, 2);
+            resultsDiv.style.display = 'block';
+
+            // Update stats if available
+            if (result.summary) {
+                document.getElementById('pagesScraped').textContent = result.summary.total_pages || 1;
+                document.getElementById('textItems').textContent = result.summary.text_items || 0;
+                document.getElementById('images').textContent = result.summary.images || 0;
+                document.getElementById('links').textContent = result.summary.links || 0;
+                document.getElementById('stats').style.display = 'grid';
+            }
+        }
+
+        function showStatus(message, type) {
+            const statusDiv = document.getElementById('status');
+            statusDiv.textContent = message;
+            statusDiv.className = `status ${type}`;
+            statusDiv.style.display = 'block';
+        }
+
+        function hideStatus() {
+            document.getElementById('status').style.display = 'none';
+        }
+
+        // Auto-focus URL input on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('url').focus();
+        });
+    </script>
+</body>
+</html> 

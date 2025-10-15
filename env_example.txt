@@ -1,0 +1,19 @@
+# Hekate Universal Web Scraper Configuration
+
+# Server Configuration
+PORT=8080
+DEBUG=False
+
+# Proxy Configuration (Optional)
+USE_PROXIES=False
+PROXY_LIST_FILE=proxies.txt
+
+# Scraping Configuration
+MAX_PAGES=50
+REQUEST_DELAY=2
+TIMEOUT=30
+MAX_RETRIES=5
+
+# Logging Configuration
+LOG_LEVEL=INFO
+LOG_FILE=logs/hekate.log 
