@@ -53,3 +53,23 @@
 2025-07-27 16:05:57,537 - core.detector - INFO - Detected website type: social from content analysis
 2025-07-27 16:05:57,820 - core.scraper - INFO - Successfully scraped https://apec2025.kr/?menuno=1: {'text_items': 21, 'images': 26, 'links': 84, 'structured_data_items': 0, 'tables': 0, 'forms': 0, 'navigation_menus': 0}
 2025-07-27 16:05:57,825 - werkzeug - INFO - 127.0.0.1 - - [27/Jul/2025 16:05:57] "POST /scrape HTTP/1.1" 200 -
+2025-11-12 20:22:50,256 - utils.helpers - INFO - Logging configured: level=INFO, file=logs/hekate.log
+2025-11-12 20:22:50,256 - utils.helpers - INFO - Logging configured: level=INFO, file=logs/hekate.log
+2025-11-12 20:22:50,257 - core.scraper - INFO - Session initialized with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2025-11-12 20:22:50,257 - web.app - INFO - ============================================================
+2025-11-12 20:22:50,257 - web.app - INFO - 🚀 HEKATE UNIVERSAL WEB SCRAPER
+2025-11-12 20:22:50,257 - web.app - INFO - ============================================================
+2025-11-12 20:22:50,257 - web.app - INFO - 🌐 Server: http://0.0.0.0:8080
+2025-11-12 20:22:50,258 - web.app - INFO - 🔧 Features:
+2025-11-12 20:22:50,258 - web.app - INFO -    • Universal website support
+2025-11-12 20:22:50,258 - web.app - INFO -    • Smart detection and extraction
+2025-11-12 20:22:50,258 - web.app - INFO -    • Anti-detection with human behavior
+2025-11-12 20:22:50,258 - web.app - INFO -    • Web interface for easy use
+2025-11-12 20:22:50,258 - web.app - INFO - ============================================================
+2025-11-12 20:22:50,296 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.9:8080
+2025-11-12 20:22:50,296 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-12 20:22:52,953 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2025 20:22:52] "GET / HTTP/1.1" 200 -
+2025-11-12 20:22:54,050 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2025 20:22:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
