@@ -73,3 +73,4 @@
 2025-11-12 20:22:50,296 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
 2025-11-12 20:22:52,953 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2025 20:22:52] "GET / HTTP/1.1" 200 -
 2025-11-12 20:22:54,050 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2025 20:22:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-12 21:05:30,399 - utils.helpers - INFO - Logging configured: level=INFO, file=logs/hekate.log

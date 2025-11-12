@@ -1,7 +1,30 @@
 {
-  "functions": {
-    "api/**/*.py": {
-      "runtime": "python3.11"
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.py",
+      "use": "@vercel/python"
     }
+  ],
+  "routes": [
+    {
+      "src": "/api/scrape",
+      "dest": "api/scrape.py"
+    },
+    {
+      "src": "/api/health",
+      "dest": "api/health.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "api/index.py"
+    }
+  ],
+  "env": {
+    "PORT": "8080",
+    "DEBUG": "False",
+    "MAX_PAGES": "50",
+    "MAX_RETRIES": "3",
+    "TIMEOUT": "30"
   }
 }
